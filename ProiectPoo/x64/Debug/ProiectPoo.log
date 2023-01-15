@@ -1,0 +1,3 @@
+﻿  Proiect_Cartuta_Rares.cpp
+C:\Users\Asus\source\repos\ProiectPoo\ProiectPoo\Proiect_Cartuta_Rares.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ProiectPoo.vcxproj -> C:\Users\Asus\source\repos\ProiectPoo\x64\Debug\ProiectPoo.exe
